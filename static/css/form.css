@@ -1,0 +1,61 @@
+ body, html {
+    height: 100%;
+   
+     background:url("/static/images/bg.jpg") transparent ; 
+    
+     background-size:cover;
+  } 
+
+ 
+  .bgimg {
+   
+   
+    
+    height: 100%;
+    
+    background-position: center;
+    
+    background-size: cover;
+  
+    position: relative;
+  
+    color:black;
+  
+    font-family: "Courier New", Courier, monospace;
+  
+    font-size: 25px;
+  }
+  
+  
+  
+  .middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    text-shadow: black;
+  
+  }
+  
+  
+  hr {
+    margin: auto;
+    width: 40%;}
+
+
+   .container{
+    position: relative;
+    top: 50px; 
+    left: 250px;
+    
+   } 
+   .mslctfld{
+    display: inline-block;
+    width:47%;
+   }
+.h3{
+    top: 250px;
+}
+  
+  

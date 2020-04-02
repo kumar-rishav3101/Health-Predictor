@@ -1,0 +1,18 @@
+body, html {
+  height: 100%;
+  background:url("/static/images/bg.jpg");
+
+  background-size:cover;
+} 
+div {
+    width: 300px;
+    
+    padding: 50px;
+    margin: 90px;
+  }
+
+  .container{
+    position: relative;
+    top: 50px;
+    left: 200px; 
+   } 
